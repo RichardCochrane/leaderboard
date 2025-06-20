@@ -1,5 +1,5 @@
 import pytest
-from league_ranking import LeagueTable
+from ranker.span_digital import LeagueTable
 
 
 def test_single_match_win():

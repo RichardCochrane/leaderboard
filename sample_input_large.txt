@@ -1,0 +1,1000 @@
+Nottingham Forest 7, Brentford 7
+Wolverhampton Wanderers 4, Chelsea 2
+Wolverhampton Wanderers 7, Sunderland 2
+Liverpool 0, Manchester United 3
+Arsenal 5, Crystal Palace 3
+Bournemouth 2, Burnley 2
+West Ham United 1, Brentford 0
+Sunderland 6, Fulham 1
+Sunderland 0, Manchester United 4
+Newcastle United 6, Brighton and Hove Albion 7
+Tottenham Hotspur 3, Aston Villa 5
+Manchester City 5, Sunderland 2
+Aston Villa 3, Arsenal 6
+Brentford 7, Arsenal 7
+Manchester United 3, Bournemouth 2
+Fulham 0, Newcastle United 0
+Leeds United 1, Tottenham Hotspur 4
+Crystal Palace 3, Wolverhampton Wanderers 0
+Bournemouth 3, Manchester United 2
+Leeds United 0, Manchester United 1
+West Ham United 3, Bournemouth 2
+Manchester City 6, Arsenal 3
+Wolverhampton Wanderers 3, Tottenham Hotspur 2
+Manchester City 0, Burnley 4
+Newcastle United 1, Tottenham Hotspur 0
+Chelsea 1, Burnley 0
+Manchester City 3, Fulham 6
+Brentford 7, Bournemouth 0
+Chelsea 6, Fulham 3
+Aston Villa 5, Manchester United 3
+Tottenham Hotspur 7, Manchester City 6
+Brighton and Hove Albion 5, Arsenal 2
+Aston Villa 5, Bournemouth 5
+Manchester City 5, Sunderland 1
+Brighton and Hove Albion 2, Wolverhampton Wanderers 1
+Aston Villa 1, Brighton and Hove Albion 1
+Wolverhampton Wanderers 3, Everton 3
+Arsenal 2, Manchester City 6
+West Ham United 6, Chelsea 6
+Nottingham Forest 3, Everton 0
+Sunderland 0, Chelsea 6
+Arsenal 6, Burnley 3
+Crystal Palace 4, Manchester City 3
+Tottenham Hotspur 0, Manchester City 6
+Burnley 3, Wolverhampton Wanderers 1
+Sunderland 1, Crystal Palace 2
+Arsenal 7, Brentford 2
+Manchester City 7, Nottingham Forest 5
+Liverpool 6, Nottingham Forest 1
+Sunderland 0, Wolverhampton Wanderers 5
+Burnley 0, Brighton and Hove Albion 0
+Leeds United 2, Crystal Palace 2
+Aston Villa 0, Manchester United 5
+Crystal Palace 0, Nottingham Forest 3
+Fulham 3, Manchester City 0
+Everton 5, Nottingham Forest 2
+Fulham 2, Brentford 1
+Chelsea 1, Crystal Palace 0
+Tottenham Hotspur 7, Fulham 2
+West Ham United 7, Bournemouth 5
+Brentford 7, Everton 3
+Bournemouth 6, Nottingham Forest 4
+Everton 5, Sunderland 1
+Tottenham Hotspur 1, Crystal Palace 2
+Manchester United 1, Chelsea 7
+Leeds United 5, Wolverhampton Wanderers 7
+Aston Villa 5, Crystal Palace 2
+Burnley 6, Wolverhampton Wanderers 5
+West Ham United 5, Brighton and Hove Albion 5
+Leeds United 5, Fulham 2
+Bournemouth 6, Aston Villa 7
+West Ham United 7, Chelsea 0
+Liverpool 6, Nottingham Forest 7
+Brighton and Hove Albion 2, Newcastle United 4
+Crystal Palace 2, Leeds United 5
+Newcastle United 3, Nottingham Forest 2
+Wolverhampton Wanderers 4, Crystal Palace 4
+Burnley 7, Fulham 3
+Liverpool 3, Leeds United 1
+Wolverhampton Wanderers 5, Leeds United 7
+Manchester United 4, West Ham United 5
+Tottenham Hotspur 4, Chelsea 6
+Aston Villa 0, Everton 5
+Crystal Palace 1, Everton 0
+Crystal Palace 7, West Ham United 4
+Manchester United 5, Brentford 3
+Brighton and Hove Albion 1, Fulham 2
+Aston Villa 6, Nottingham Forest 7
+West Ham United 4, Newcastle United 3
+Burnley 7, Brentford 0
+Brighton and Hove Albion 1, Crystal Palace 1
+Crystal Palace 1, Leeds United 3
+Aston Villa 4, Fulham 5
+Manchester United 7, Chelsea 2
+West Ham United 7, Brentford 2
+Wolverhampton Wanderers 0, Bournemouth 6
+Brighton and Hove Albion 1, Crystal Palace 0
+West Ham United 1, Liverpool 3
+Aston Villa 0, Wolverhampton Wanderers 0
+Wolverhampton Wanderers 2, Fulham 7
+Bournemouth 7, Newcastle United 4
+Newcastle United 5, Sunderland 4
+Nottingham Forest 4, Fulham 6
+Manchester United 2, Wolverhampton Wanderers 1
+Everton 4, Bournemouth 1
+Wolverhampton Wanderers 3, Tottenham Hotspur 7
+Wolverhampton Wanderers 5, West Ham United 5
+Crystal Palace 2, Brentford 3
+Brighton and Hove Albion 4, Newcastle United 4
+Newcastle United 6, Bournemouth 1
+Crystal Palace 7, Sunderland 2
+Aston Villa 2, Everton 7
+Arsenal 0, Nottingham Forest 7
+Chelsea 4, West Ham United 6
+Leeds United 2, Wolverhampton Wanderers 2
+Fulham 3, Everton 2
+Leeds United 7, Fulham 7
+Burnley 1, West Ham United 0
+Everton 3, Sunderland 4
+Manchester City 6, Brentford 5
+Brighton and Hove Albion 1, West Ham United 5
+Brentford 1, Newcastle United 7
+Tottenham Hotspur 6, Newcastle United 5
+Nottingham Forest 4, Chelsea 1
+Sunderland 5, Bournemouth 3
+Tottenham Hotspur 2, Liverpool 0
+Arsenal 1, Fulham 7
+West Ham United 5, Wolverhampton Wanderers 1
+Brighton and Hove Albion 1, Tottenham Hotspur 5
+Liverpool 7, West Ham United 0
+Aston Villa 2, Brentford 2
+Fulham 1, Tottenham Hotspur 2
+Bournemouth 1, Sunderland 1
+Everton 1, Fulham 1
+Fulham 2, Liverpool 4
+Brentford 4, Liverpool 4
+Tottenham Hotspur 7, West Ham United 4
+Leeds United 2, Wolverhampton Wanderers 7
+Manchester City 6, Newcastle United 7
+Burnley 7, Tottenham Hotspur 3
+Chelsea 6, Brentford 4
+Crystal Palace 6, Aston Villa 3
+Burnley 0, Aston Villa 5
+Everton 2, Brighton and Hove Albion 5
+Aston Villa 1, Chelsea 3
+Chelsea 1, Tottenham Hotspur 3
+Manchester City 4, Sunderland 6
+Nottingham Forest 1, Everton 4
+Manchester United 6, Tottenham Hotspur 0
+Manchester City 4, Arsenal 5
+Chelsea 3, West Ham United 5
+Manchester City 5, Brighton and Hove Albion 5
+Tottenham Hotspur 0, Wolverhampton Wanderers 0
+Burnley 7, Tottenham Hotspur 2
+Chelsea 6, Arsenal 1
+Chelsea 0, Manchester City 3
+Sunderland 5, Chelsea 7
+Bournemouth 2, Fulham 4
+Tottenham Hotspur 7, Fulham 0
+Nottingham Forest 5, Everton 0
+Fulham 0, Liverpool 0
+Chelsea 6, Brentford 6
+Newcastle United 7, Bournemouth 0
+Fulham 1, Newcastle United 2
+Nottingham Forest 6, Leeds United 0
+Manchester City 0, Burnley 6
+West Ham United 4, Sunderland 7
+Arsenal 4, Tottenham Hotspur 6
+Tottenham Hotspur 0, West Ham United 3
+Nottingham Forest 1, Manchester United 3
+Manchester United 5, West Ham United 6
+West Ham United 4, Manchester United 3
+Brentford 3, Tottenham Hotspur 4
+Wolverhampton Wanderers 4, Tottenham Hotspur 0
+Tottenham Hotspur 2, Sunderland 1
+Tottenham Hotspur 6, Fulham 4
+Bournemouth 5, Sunderland 5
+Brentford 6, Brighton and Hove Albion 7
+Leeds United 4, Liverpool 3
+Leeds United 1, Brighton and Hove Albion 3
+Chelsea 1, Liverpool 6
+Tottenham Hotspur 1, Liverpool 0
+West Ham United 7, Burnley 0
+Brentford 0, Newcastle United 4
+Wolverhampton Wanderers 1, Bournemouth 0
+Bournemouth 3, Nottingham Forest 1
+Liverpool 7, Wolverhampton Wanderers 7
+Nottingham Forest 4, Wolverhampton Wanderers 7
+Everton 6, Burnley 3
+Crystal Palace 3, Aston Villa 3
+Aston Villa 4, Wolverhampton Wanderers 7
+Aston Villa 4, West Ham United 0
+Nottingham Forest 4, Newcastle United 5
+Everton 2, Manchester United 2
+Brentford 7, Liverpool 5
+Manchester City 5, Manchester United 4
+Tottenham Hotspur 0, Wolverhampton Wanderers 2
+Fulham 3, Brentford 3
+Wolverhampton Wanderers 0, Tottenham Hotspur 4
+Manchester City 0, Leeds United 6
+Tottenham Hotspur 3, Leeds United 0
+West Ham United 1, Everton 7
+Chelsea 4, Brighton and Hove Albion 5
+Crystal Palace 2, West Ham United 5
+Everton 0, Manchester United 5
+Manchester City 2, Tottenham Hotspur 7
+Newcastle United 6, Nottingham Forest 1
+Leeds United 3, Brighton and Hove Albion 5
+Wolverhampton Wanderers 6, Fulham 2
+Liverpool 7, Crystal Palace 0
+Burnley 6, Brentford 2
+Burnley 3, Fulham 7
+Liverpool 5, Crystal Palace 6
+Wolverhampton Wanderers 5, Bournemouth 4
+Tottenham Hotspur 1, Burnley 1
+Aston Villa 3, Newcastle United 5
+Sunderland 2, Liverpool 0
+Liverpool 3, Arsenal 7
+Arsenal 3, Chelsea 5
+Bournemouth 1, Liverpool 1
+West Ham United 4, Aston Villa 6
+Manchester City 2, Nottingham Forest 5
+West Ham United 4, Manchester City 4
+Brighton and Hove Albion 2, Wolverhampton Wanderers 3
+Manchester United 5, Chelsea 2
+Bournemouth 1, Sunderland 2
+Manchester United 6, Bournemouth 4
+Chelsea 0, West Ham United 5
+Sunderland 7, Newcastle United 3
+Chelsea 2, Sunderland 1
+Arsenal 6, Newcastle United 1
+Bournemouth 1, Wolverhampton Wanderers 1
+West Ham United 1, Arsenal 7
+Tottenham Hotspur 4, Sunderland 3
+Wolverhampton Wanderers 3, West Ham United 6
+Manchester United 6, Liverpool 7
+Bournemouth 7, Nottingham Forest 7
+Wolverhampton Wanderers 0, Fulham 6
+West Ham United 3, Brentford 7
+Nottingham Forest 1, Arsenal 5
+Brentford 3, Burnley 2
+Leeds United 2, Manchester United 5
+West Ham United 0, Manchester United 4
+Chelsea 6, Aston Villa 0
+Fulham 3, Bournemouth 4
+Chelsea 0, Fulham 2
+Crystal Palace 1, Burnley 4
+Tottenham Hotspur 3, Chelsea 6
+Leeds United 2, Burnley 3
+Leeds United 5, Liverpool 7
+Brighton and Hove Albion 7, Sunderland 3
+Brentford 6, Brighton and Hove Albion 3
+Manchester United 2, West Ham United 5
+Newcastle United 7, Manchester United 1
+Aston Villa 4, Arsenal 2
+Burnley 4, Liverpool 7
+Nottingham Forest 3, Arsenal 3
+Chelsea 6, Newcastle United 2
+Bournemouth 5, Chelsea 4
+Nottingham Forest 7, Brighton and Hove Albion 7
+Newcastle United 1, Nottingham Forest 1
+Brighton and Hove Albion 6, Liverpool 4
+Bournemouth 5, Nottingham Forest 2
+Sunderland 2, Fulham 4
+Burnley 4, Leeds United 1
+Chelsea 7, Newcastle United 4
+Leeds United 2, West Ham United 5
+Crystal Palace 5, West Ham United 5
+Newcastle United 0, Leeds United 7
+Arsenal 3, Leeds United 1
+Everton 6, Newcastle United 7
+Leeds United 6, Manchester City 2
+Brentford 0, Chelsea 0
+Newcastle United 7, Burnley 5
+Aston Villa 0, Arsenal 3
+Manchester United 3, Crystal Palace 6
+Everton 4, Nottingham Forest 0
+Aston Villa 3, Bournemouth 6
+Brentford 2, Wolverhampton Wanderers 5
+Aston Villa 7, Tottenham Hotspur 0
+Aston Villa 4, Fulham 2
+Newcastle United 7, Chelsea 3
+Newcastle United 5, Brentford 2
+Aston Villa 2, Bournemouth 5
+Newcastle United 7, Brighton and Hove Albion 6
+Manchester United 4, Fulham 6
+Brentford 7, Tottenham Hotspur 6
+Brentford 3, Leeds United 2
+Everton 2, Crystal Palace 4
+Liverpool 3, Manchester City 2
+West Ham United 7, Newcastle United 4
+Manchester United 4, Everton 6
+Sunderland 6, Aston Villa 5
+Everton 1, Newcastle United 0
+Nottingham Forest 1, Burnley 7
+Fulham 3, West Ham United 0
+Brentford 5, Nottingham Forest 0
+Burnley 0, Manchester United 4
+Tottenham Hotspur 1, Bournemouth 3
+Fulham 4, Newcastle United 4
+Brentford 3, Wolverhampton Wanderers 7
+Manchester City 1, Leeds United 0
+West Ham United 5, Aston Villa 4
+Leeds United 5, Tottenham Hotspur 0
+Newcastle United 6, Bournemouth 6
+Sunderland 0, Everton 1
+Leeds United 5, Brentford 6
+Bournemouth 7, Nottingham Forest 2
+Manchester City 6, Everton 4
+Bournemouth 0, Tottenham Hotspur 2
+Everton 6, Manchester United 2
+Nottingham Forest 7, Sunderland 2
+Wolverhampton Wanderers 3, Arsenal 5
+West Ham United 3, Brighton and Hove Albion 4
+Manchester United 2, Brentford 4
+Brighton and Hove Albion 5, Fulham 0
+West Ham United 7, Brentford 0
+Everton 7, Bournemouth 6
+Crystal Palace 4, Newcastle United 2
+Arsenal 7, Manchester United 3
+Tottenham Hotspur 6, Newcastle United 1
+Aston Villa 6, Sunderland 6
+Crystal Palace 2, Brentford 2
+Crystal Palace 3, Manchester City 1
+Manchester United 0, West Ham United 0
+Fulham 6, Nottingham Forest 1
+Nottingham Forest 0, Brighton and Hove Albion 4
+Aston Villa 5, Burnley 1
+Nottingham Forest 5, Manchester City 4
+Nottingham Forest 2, Arsenal 3
+Chelsea 4, Manchester United 0
+Manchester United 7, Brighton and Hove Albion 4
+Brentford 7, Leeds United 4
+Fulham 4, Liverpool 1
+Fulham 2, Liverpool 4
+Burnley 2, Brentford 3
+Aston Villa 3, Newcastle United 4
+Manchester City 4, Newcastle United 1
+Newcastle United 5, Sunderland 7
+Brentford 6, Leeds United 1
+Crystal Palace 2, Arsenal 2
+Fulham 1, Newcastle United 6
+Fulham 6, Brighton and Hove Albion 1
+Manchester United 0, Everton 4
+Sunderland 6, Brentford 6
+Liverpool 4, Crystal Palace 7
+Sunderland 3, Crystal Palace 2
+Crystal Palace 5, Wolverhampton Wanderers 2
+Sunderland 6, Wolverhampton Wanderers 2
+Manchester United 1, Sunderland 5
+Burnley 6, Newcastle United 5
+Brighton and Hove Albion 4, Aston Villa 3
+Arsenal 7, Newcastle United 6
+Nottingham Forest 1, Tottenham Hotspur 1
+Fulham 2, Manchester United 0
+Tottenham Hotspur 0, Chelsea 6
+Newcastle United 4, Brentford 5
+Sunderland 5, Tottenham Hotspur 4
+Leeds United 1, Wolverhampton Wanderers 5
+Brentford 0, Manchester United 5
+Manchester City 6, Bournemouth 1
+Fulham 5, Nottingham Forest 1
+Bournemouth 6, Liverpool 7
+Wolverhampton Wanderers 5, Nottingham Forest 0
+Liverpool 4, Wolverhampton Wanderers 6
+Arsenal 2, Fulham 6
+Brighton and Hove Albion 7, Arsenal 3
+Nottingham Forest 1, Leeds United 0
+Brighton and Hove Albion 0, West Ham United 1
+Fulham 1, Wolverhampton Wanderers 6
+Sunderland 3, Everton 4
+Tottenham Hotspur 4, Brighton and Hove Albion 6
+Newcastle United 6, Sunderland 1
+Wolverhampton Wanderers 5, Newcastle United 4
+Newcastle United 3, Liverpool 0
+Chelsea 2, Brighton and Hove Albion 0
+West Ham United 3, Crystal Palace 6
+Fulham 2, Brighton and Hove Albion 0
+Manchester City 7, Leeds United 7
+Burnley 1, Manchester City 2
+Newcastle United 6, Fulham 3
+Arsenal 6, Leeds United 5
+Leeds United 4, Brentford 5
+Brighton and Hove Albion 1, Aston Villa 0
+Brighton and Hove Albion 6, Manchester City 7
+Sunderland 6, Manchester United 3
+Burnley 4, Leeds United 4
+Manchester United 0, Manchester City 6
+Manchester United 3, Nottingham Forest 1
+Nottingham Forest 0, Brighton and Hove Albion 5
+Bournemouth 0, Burnley 6
+Newcastle United 1, Burnley 3
+Brentford 2, West Ham United 2
+Brentford 2, Everton 6
+Aston Villa 2, Tottenham Hotspur 2
+Manchester United 7, Arsenal 3
+Nottingham Forest 7, Everton 3
+Sunderland 6, Burnley 1
+Liverpool 5, Fulham 4
+Wolverhampton Wanderers 4, Bournemouth 7
+Wolverhampton Wanderers 6, Aston Villa 2
+Bournemouth 4, Manchester City 4
+Sunderland 2, Brighton and Hove Albion 3
+Crystal Palace 3, Manchester United 4
+Tottenham Hotspur 3, Everton 1
+Manchester City 7, Newcastle United 6
+Newcastle United 5, Crystal Palace 5
+Crystal Palace 0, Leeds United 1
+West Ham United 7, Wolverhampton Wanderers 1
+Brentford 5, Chelsea 1
+Chelsea 0, Burnley 7
+Everton 2, Brighton and Hove Albion 5
+West Ham United 4, Manchester United 7
+Fulham 0, Brighton and Hove Albion 1
+Everton 0, Nottingham Forest 0
+West Ham United 7, Brighton and Hove Albion 3
+West Ham United 6, Wolverhampton Wanderers 1
+Nottingham Forest 0, Liverpool 5
+Liverpool 5, Manchester United 1
+Liverpool 1, Wolverhampton Wanderers 2
+Tottenham Hotspur 2, Sunderland 1
+West Ham United 2, Manchester City 1
+Manchester United 3, Newcastle United 6
+Everton 1, Brentford 3
+Brentford 2, Bournemouth 0
+Manchester City 6, Chelsea 7
+West Ham United 0, Everton 3
+Tottenham Hotspur 3, Chelsea 5
+Aston Villa 7, West Ham United 6
+Arsenal 1, Manchester City 3
+Manchester United 6, Manchester City 4
+Arsenal 7, Fulham 3
+Manchester United 5, Burnley 3
+West Ham United 4, Sunderland 0
+Brentford 1, Bournemouth 7
+Crystal Palace 6, Tottenham Hotspur 7
+Brighton and Hove Albion 1, Manchester United 3
+Sunderland 7, Nottingham Forest 4
+Leeds United 6, Arsenal 3
+Fulham 7, Burnley 4
+Bournemouth 0, Fulham 6
+Bournemouth 3, Brentford 3
+Chelsea 5, Burnley 5
+Tottenham Hotspur 3, Brighton and Hove Albion 5
+Manchester United 0, Tottenham Hotspur 2
+Leeds United 0, Aston Villa 5
+Chelsea 6, Crystal Palace 6
+Crystal Palace 5, Chelsea 5
+Everton 4, Manchester United 4
+West Ham United 1, Aston Villa 2
+Burnley 7, Aston Villa 0
+Nottingham Forest 2, Burnley 0
+Newcastle United 7, Everton 7
+Arsenal 1, Leeds United 2
+Newcastle United 3, Aston Villa 3
+Leeds United 0, Bournemouth 7
+Tottenham Hotspur 7, Manchester City 1
+Everton 7, Fulham 6
+West Ham United 5, Bournemouth 3
+Everton 6, Tottenham Hotspur 6
+Manchester United 2, Brighton and Hove Albion 3
+Burnley 7, Brentford 1
+Bournemouth 1, Manchester City 7
+Crystal Palace 1, Brighton and Hove Albion 2
+Wolverhampton Wanderers 1, Bournemouth 6
+Sunderland 4, Manchester United 7
+Newcastle United 4, Bournemouth 5
+Brentford 3, Everton 2
+Newcastle United 3, Brentford 1
+Brighton and Hove Albion 7, Newcastle United 7
+Bournemouth 1, Newcastle United 6
+Burnley 3, West Ham United 5
+Wolverhampton Wanderers 3, Aston Villa 1
+Brentford 7, Tottenham Hotspur 0
+Liverpool 3, Newcastle United 1
+Fulham 1, Tottenham Hotspur 0
+Aston Villa 0, Nottingham Forest 1
+Newcastle United 4, West Ham United 7
+Burnley 6, Manchester United 0
+Everton 6, Burnley 3
+Newcastle United 4, Everton 7
+Liverpool 3, Brighton and Hove Albion 5
+Wolverhampton Wanderers 6, Brighton and Hove Albion 6
+Fulham 6, Aston Villa 1
+Tottenham Hotspur 2, Wolverhampton Wanderers 5
+Everton 2, Tottenham Hotspur 4
+Newcastle United 0, Bournemouth 0
+Tottenham Hotspur 7, Manchester City 2
+Liverpool 2, Newcastle United 6
+Burnley 5, Sunderland 6
+Wolverhampton Wanderers 1, Aston Villa 5
+Chelsea 7, Manchester City 1
+Leeds United 0, Manchester City 5
+Sunderland 6, Leeds United 1
+Newcastle United 1, Wolverhampton Wanderers 5
+Leeds United 0, Brighton and Hove Albion 3
+Manchester City 1, Nottingham Forest 4
+Crystal Palace 2, West Ham United 2
+Brighton and Hove Albion 4, West Ham United 4
+Arsenal 6, Leeds United 5
+Bournemouth 6, Sunderland 6
+Leeds United 3, Manchester City 6
+Chelsea 0, Manchester United 4
+Sunderland 5, Wolverhampton Wanderers 0
+Newcastle United 4, West Ham United 6
+Burnley 1, Arsenal 6
+Tottenham Hotspur 1, Manchester United 7
+Bournemouth 2, Crystal Palace 4
+Arsenal 6, Manchester United 3
+Sunderland 0, Newcastle United 4
+Manchester City 5, Brentford 1
+Nottingham Forest 6, Arsenal 4
+West Ham United 7, Fulham 1
+Bournemouth 4, Brentford 4
+Nottingham Forest 7, Leeds United 3
+Arsenal 0, Bournemouth 1
+Chelsea 3, Aston Villa 1
+Newcastle United 7, West Ham United 3
+Newcastle United 5, Sunderland 7
+Wolverhampton Wanderers 2, Arsenal 7
+Tottenham Hotspur 7, Manchester United 7
+Sunderland 7, Leeds United 2
+Leeds United 5, Brighton and Hove Albion 0
+Wolverhampton Wanderers 6, Crystal Palace 5
+Arsenal 2, Brighton and Hove Albion 1
+Leeds United 3, Wolverhampton Wanderers 3
+Crystal Palace 5, Burnley 1
+Brighton and Hove Albion 0, Wolverhampton Wanderers 1
+Nottingham Forest 0, Newcastle United 7
+Chelsea 0, Sunderland 0
+Fulham 5, Everton 5
+Aston Villa 5, Nottingham Forest 3
+Burnley 4, Sunderland 2
+Newcastle United 4, Brighton and Hove Albion 4
+Tottenham Hotspur 7, Manchester United 5
+Manchester City 1, Arsenal 7
+Sunderland 1, Chelsea 7
+Brentford 6, Manchester City 1
+Arsenal 4, Sunderland 0
+Sunderland 4, Arsenal 3
+Aston Villa 1, Tottenham Hotspur 2
+Bournemouth 1, Manchester City 5
+Sunderland 2, Leeds United 5
+Arsenal 3, Manchester United 4
+Sunderland 3, West Ham United 2
+Fulham 5, Manchester City 7
+West Ham United 4, Aston Villa 7
+Tottenham Hotspur 4, Everton 3
+Brighton and Hove Albion 1, Everton 5
+Crystal Palace 6, West Ham United 6
+Everton 6, Manchester United 1
+Tottenham Hotspur 4, Brighton and Hove Albion 2
+West Ham United 1, Newcastle United 1
+Crystal Palace 7, Brentford 6
+Burnley 7, Fulham 6
+Manchester United 0, Newcastle United 2
+Manchester United 5, Aston Villa 2
+Chelsea 7, Wolverhampton Wanderers 3
+Brighton and Hove Albion 4, Sunderland 7
+Nottingham Forest 4, Everton 4
+Bournemouth 2, Sunderland 5
+Sunderland 7, Nottingham Forest 6
+Leeds United 6, Chelsea 4
+Chelsea 6, Crystal Palace 7
+Tottenham Hotspur 7, Nottingham Forest 5
+Fulham 4, Manchester United 3
+Aston Villa 1, Bournemouth 4
+Fulham 7, Crystal Palace 0
+Leeds United 2, Arsenal 5
+Aston Villa 3, Arsenal 5
+Wolverhampton Wanderers 4, Manchester City 7
+Liverpool 3, West Ham United 1
+Wolverhampton Wanderers 7, Fulham 4
+Everton 2, Brighton and Hove Albion 5
+Brighton and Hove Albion 2, Manchester City 6
+Leeds United 6, Tottenham Hotspur 2
+Bournemouth 2, Brighton and Hove Albion 1
+Liverpool 7, Burnley 1
+Tottenham Hotspur 1, Newcastle United 2
+Everton 2, Liverpool 0
+Arsenal 1, Manchester United 6
+Nottingham Forest 5, Fulham 4
+Fulham 7, Nottingham Forest 3
+Everton 7, Newcastle United 6
+Tottenham Hotspur 1, Fulham 2
+Brentford 7, Wolverhampton Wanderers 5
+Nottingham Forest 1, West Ham United 6
+Tottenham Hotspur 1, West Ham United 5
+Bournemouth 1, Liverpool 7
+Leeds United 6, West Ham United 2
+Bournemouth 5, Leeds United 7
+Wolverhampton Wanderers 7, Manchester City 1
+Fulham 4, Wolverhampton Wanderers 7
+Brighton and Hove Albion 3, Chelsea 6
+Aston Villa 5, Everton 5
+Crystal Palace 7, Newcastle United 2
+Nottingham Forest 6, Chelsea 0
+Crystal Palace 1, Tottenham Hotspur 3
+Everton 0, Arsenal 6
+Tottenham Hotspur 1, Burnley 6
+Leeds United 2, Crystal Palace 6
+Manchester City 1, Tottenham Hotspur 4
+Leeds United 0, Brighton and Hove Albion 4
+Arsenal 1, Everton 5
+Aston Villa 2, Liverpool 5
+Brentford 6, Wolverhampton Wanderers 6
+Burnley 1, Bournemouth 3
+Nottingham Forest 3, Wolverhampton Wanderers 6
+Bournemouth 6, Crystal Palace 2
+Manchester City 6, Fulham 1
+Crystal Palace 1, Manchester City 7
+West Ham United 5, Brentford 3
+Sunderland 5, Manchester United 0
+Manchester City 2, Wolverhampton Wanderers 0
+Bournemouth 4, Everton 6
+Bournemouth 5, Fulham 1
+Chelsea 4, Arsenal 5
+Fulham 0, West Ham United 7
+Tottenham Hotspur 7, Chelsea 1
+Aston Villa 4, Crystal Palace 2
+Nottingham Forest 6, Tottenham Hotspur 6
+Newcastle United 7, Manchester City 0
+Brentford 4, Fulham 2
+Sunderland 7, Everton 3
+West Ham United 1, Wolverhampton Wanderers 7
+West Ham United 5, Manchester United 7
+Nottingham Forest 0, West Ham United 2
+Everton 0, Arsenal 7
+Nottingham Forest 0, Manchester United 1
+West Ham United 3, Manchester United 7
+Bournemouth 4, Sunderland 2
+Leeds United 0, Manchester City 0
+Chelsea 3, Nottingham Forest 7
+West Ham United 4, Wolverhampton Wanderers 4
+Burnley 3, Manchester United 6
+Crystal Palace 1, Newcastle United 6
+Fulham 7, West Ham United 1
+Tottenham Hotspur 1, Manchester City 6
+Sunderland 1, Brighton and Hove Albion 2
+Arsenal 1, Tottenham Hotspur 3
+Wolverhampton Wanderers 4, Arsenal 1
+Wolverhampton Wanderers 1, Crystal Palace 6
+West Ham United 6, Aston Villa 7
+Chelsea 1, Fulham 4
+Brighton and Hove Albion 4, Burnley 6
+Aston Villa 5, Burnley 4
+Liverpool 6, Leeds United 1
+Fulham 3, Burnley 6
+Tottenham Hotspur 5, Chelsea 2
+West Ham United 2, Everton 7
+Manchester City 4, Bournemouth 1
+Liverpool 4, Leeds United 1
+Leeds United 5, Tottenham Hotspur 7
+Wolverhampton Wanderers 6, Bournemouth 0
+Manchester City 0, Tottenham Hotspur 2
+Chelsea 2, Fulham 6
+Manchester United 4, Burnley 3
+Aston Villa 5, Crystal Palace 1
+Crystal Palace 2, Nottingham Forest 6
+Chelsea 1, Tottenham Hotspur 0
+Wolverhampton Wanderers 7, Arsenal 1
+Aston Villa 7, Crystal Palace 0
+Brentford 7, West Ham United 6
+Fulham 0, Wolverhampton Wanderers 7
+Aston Villa 3, Burnley 2
+Burnley 2, Sunderland 7
+Sunderland 1, Crystal Palace 5
+Manchester United 2, West Ham United 1
+Bournemouth 7, Brentford 1
+Leeds United 7, Tottenham Hotspur 1
+Nottingham Forest 7, Arsenal 7
+Leeds United 0, Chelsea 3
+Arsenal 0, Crystal Palace 7
+Manchester City 7, Chelsea 2
+West Ham United 4, Bournemouth 6
+Manchester City 5, Tottenham Hotspur 5
+Leeds United 3, Bournemouth 6
+West Ham United 0, Crystal Palace 5
+West Ham United 0, Aston Villa 7
+Sunderland 4, Brighton and Hove Albion 7
+Liverpool 0, West Ham United 7
+Leeds United 6, Chelsea 3
+Fulham 3, Tottenham Hotspur 2
+Bournemouth 4, Liverpool 7
+Manchester United 7, Fulham 0
+Nottingham Forest 4, Fulham 1
+Bournemouth 5, Manchester City 2
+Burnley 5, Crystal Palace 7
+Fulham 1, Chelsea 7
+Manchester United 1, Brentford 1
+Sunderland 0, Everton 5
+Brighton and Hove Albion 5, Aston Villa 1
+Aston Villa 0, Leeds United 7
+Chelsea 2, Manchester City 1
+Brighton and Hove Albion 5, Wolverhampton Wanderers 3
+Nottingham Forest 0, Manchester United 3
+Burnley 7, Leeds United 0
+Bournemouth 1, Sunderland 7
+Arsenal 1, Brighton and Hove Albion 7
+Liverpool 4, Crystal Palace 3
+Liverpool 4, West Ham United 2
+Arsenal 1, Manchester City 0
+Chelsea 0, Everton 4
+West Ham United 7, Brentford 0
+Everton 1, Leeds United 4
+Manchester United 2, Wolverhampton Wanderers 5
+Arsenal 6, Sunderland 1
+Chelsea 5, Leeds United 6
+Aston Villa 2, Crystal Palace 6
+West Ham United 1, Everton 7
+Bournemouth 3, West Ham United 7
+Brighton and Hove Albion 1, Bournemouth 2
+Manchester City 6, Wolverhampton Wanderers 4
+Leeds United 1, Chelsea 3
+Liverpool 1, Brentford 0
+Wolverhampton Wanderers 6, West Ham United 6
+Wolverhampton Wanderers 2, Everton 4
+Fulham 0, Nottingham Forest 6
+Manchester United 6, Brighton and Hove Albion 0
+Newcastle United 0, Sunderland 2
+Arsenal 6, Everton 7
+Brighton and Hove Albion 4, Bournemouth 1
+Sunderland 1, Nottingham Forest 4
+Nottingham Forest 4, Tottenham Hotspur 5
+Crystal Palace 0, Bournemouth 1
+Sunderland 0, Wolverhampton Wanderers 7
+Fulham 6, Leeds United 4
+Chelsea 1, Newcastle United 4
+Fulham 0, Chelsea 4
+Brentford 4, Crystal Palace 7
+Leeds United 4, Aston Villa 4
+Chelsea 4, Arsenal 4
+Nottingham Forest 0, Arsenal 3
+Nottingham Forest 6, Brentford 0
+Tottenham Hotspur 3, Burnley 7
+Tottenham Hotspur 6, West Ham United 4
+Liverpool 4, Sunderland 2
+Chelsea 0, Newcastle United 0
+Manchester City 2, Chelsea 0
+Newcastle United 2, Everton 5
+Tottenham Hotspur 2, Manchester City 0
+Tottenham Hotspur 3, Manchester City 7
+Tottenham Hotspur 0, Brighton and Hove Albion 6
+West Ham United 7, Brighton and Hove Albion 6
+Manchester City 6, Brentford 7
+Brighton and Hove Albion 5, Bournemouth 3
+Burnley 0, Liverpool 5
+Manchester City 2, Brentford 7
+Manchester United 6, Leeds United 3
+Liverpool 0, Wolverhampton Wanderers 4
+Tottenham Hotspur 4, Arsenal 6
+Everton 0, Manchester United 3
+Tottenham Hotspur 0, Arsenal 5
+Arsenal 4, Bournemouth 3
+West Ham United 4, Chelsea 1
+Crystal Palace 6, Everton 1
+West Ham United 5, Fulham 1
+Brentford 6, Manchester City 1
+Leeds United 7, Liverpool 7
+Bournemouth 4, Sunderland 3
+Tottenham Hotspur 5, Burnley 3
+Nottingham Forest 7, Newcastle United 2
+Brentford 4, Burnley 6
+Wolverhampton Wanderers 7, Chelsea 3
+Tottenham Hotspur 3, Manchester United 7
+Chelsea 0, Sunderland 3
+Tottenham Hotspur 7, Arsenal 3
+Crystal Palace 5, Nottingham Forest 4
+Burnley 2, Everton 2
+Bournemouth 3, Brighton and Hove Albion 0
+Manchester City 5, Chelsea 5
+Arsenal 5, Brentford 2
+Crystal Palace 2, Chelsea 3
+Newcastle United 5, Crystal Palace 6
+Liverpool 5, Burnley 3
+Newcastle United 6, Everton 5
+Chelsea 1, Bournemouth 3
+Burnley 3, Brentford 5
+Brentford 2, Aston Villa 4
+Sunderland 1, Fulham 2
+Newcastle United 5, Leeds United 4
+Everton 6, Manchester United 4
+Manchester United 4, Crystal Palace 2
+Wolverhampton Wanderers 5, Chelsea 6
+Brentford 0, Sunderland 2
+Brentford 3, Sunderland 4
+Manchester United 0, Manchester City 4
+Fulham 1, Leeds United 0
+Liverpool 4, Brentford 5
+Sunderland 4, Manchester United 6
+Manchester United 6, Sunderland 1
+Arsenal 3, Crystal Palace 2
+Chelsea 2, Brighton and Hove Albion 2
+Chelsea 4, Sunderland 6
+Chelsea 0, Bournemouth 5
+Sunderland 4, Bournemouth 6
+Nottingham Forest 6, Brentford 0
+Fulham 2, Newcastle United 0
+Leeds United 2, Brentford 2
+Arsenal 6, Nottingham Forest 4
+Manchester City 6, Wolverhampton Wanderers 3
+Liverpool 7, Burnley 3
+Chelsea 0, Fulham 1
+Brentford 7, Manchester City 4
+Brighton and Hove Albion 0, Burnley 7
+Aston Villa 2, Manchester United 4
+Aston Villa 0, Liverpool 4
+Newcastle United 1, Tottenham Hotspur 3
+Everton 3, Aston Villa 5
+Nottingham Forest 0, Brighton and Hove Albion 1
+Manchester United 3, Newcastle United 7
+Leeds United 3, Everton 3
+Everton 2, Burnley 1
+Liverpool 2, Manchester United 1
+Manchester City 0, Manchester United 6
+Wolverhampton Wanderers 0, Newcastle United 1
+Leeds United 2, Bournemouth 3
+Arsenal 4, Brighton and Hove Albion 0
+Leeds United 6, Liverpool 4
+Burnley 4, Leeds United 1
+Wolverhampton Wanderers 3, West Ham United 1
+Tottenham Hotspur 6, Sunderland 0
+Sunderland 1, Leeds United 2
+Brighton and Hove Albion 1, Wolverhampton Wanderers 2
+Brighton and Hove Albion 1, Tottenham Hotspur 3
+Wolverhampton Wanderers 2, Manchester United 2
+Crystal Palace 0, Chelsea 6
+Everton 5, Fulham 7
+Leeds United 3, West Ham United 1
+Manchester United 5, Brighton and Hove Albion 7
+Fulham 3, Wolverhampton Wanderers 6
+Fulham 5, Everton 2
+Nottingham Forest 4, Arsenal 7
+Brighton and Hove Albion 6, Crystal Palace 4
+Burnley 6, West Ham United 0
+Chelsea 0, Leeds United 2
+Manchester City 0, Bournemouth 6
+Newcastle United 3, Brentford 2
+Manchester United 2, Nottingham Forest 2
+Fulham 0, Arsenal 3
+Chelsea 1, Wolverhampton Wanderers 0
+Aston Villa 2, Nottingham Forest 0
+Liverpool 5, Arsenal 1
+Tottenham Hotspur 2, Newcastle United 5
+West Ham United 5, Newcastle United 4
+Leeds United 5, Crystal Palace 4
+Everton 4, West Ham United 4
+Tottenham Hotspur 5, Fulham 3
+Brighton and Hove Albion 3, Manchester City 6
+Sunderland 4, Crystal Palace 5
+Fulham 6, Aston Villa 6
+Wolverhampton Wanderers 1, Aston Villa 2
+Burnley 2, Manchester City 4
+Manchester United 1, Leeds United 6
+West Ham United 4, Manchester City 6
+Liverpool 5, Tottenham Hotspur 3
+Brentford 0, Nottingham Forest 2
+Tottenham Hotspur 4, Arsenal 3
+Bournemouth 5, Manchester City 2
+Burnley 6, Nottingham Forest 0
+Aston Villa 4, Brentford 7
+Leeds United 2, Chelsea 1
+Chelsea 7, Manchester United 4
+Nottingham Forest 0, Brentford 5
+Tottenham Hotspur 5, Chelsea 5
+Manchester City 6, Chelsea 2
+Bournemouth 2, Burnley 3
+Chelsea 2, Sunderland 0
+Leeds United 7, Aston Villa 2
+Burnley 5, Crystal Palace 3
+Everton 6, Brighton and Hove Albion 2
+Newcastle United 0, Arsenal 3
+West Ham United 7, Aston Villa 1
+Brighton and Hove Albion 7, Burnley 2
+Crystal Palace 6, Bournemouth 2
+Wolverhampton Wanderers 5, Liverpool 0
+Arsenal 2, Newcastle United 3
+Aston Villa 7, Liverpool 5
+Bournemouth 0, Manchester United 2
+Tottenham Hotspur 6, Arsenal 6
+Chelsea 4, Leeds United 0
+Manchester City 1, Leeds United 4
+Aston Villa 6, Tottenham Hotspur 1
+Everton 5, Arsenal 7
+West Ham United 1, Wolverhampton Wanderers 2
+Fulham 3, West Ham United 5
+Tottenham Hotspur 0, Arsenal 4
+Manchester United 4, Bournemouth 1
+Manchester United 7, Aston Villa 1
+Nottingham Forest 2, Burnley 3
+Burnley 5, Manchester City 0
+Bournemouth 5, Sunderland 6
+Brentford 6, Crystal Palace 7
+Newcastle United 2, Wolverhampton Wanderers 4
+Brentford 3, Leeds United 5
+Crystal Palace 3, West Ham United 4
+Everton 4, Nottingham Forest 4
+Nottingham Forest 5, Burnley 7
+Manchester City 5, Brentford 5
+Bournemouth 6, Sunderland 7
+Leeds United 4, Fulham 0
+Nottingham Forest 7, Manchester City 3
+Manchester City 2, Manchester United 6
+Aston Villa 5, Newcastle United 7
+Everton 0, Wolverhampton Wanderers 5
+West Ham United 3, Newcastle United 1
+Tottenham Hotspur 6, West Ham United 5
+Brighton and Hove Albion 2, Bournemouth 4
+Tottenham Hotspur 3, Sunderland 5
+Arsenal 2, Newcastle United 2
+Burnley 5, Wolverhampton Wanderers 3
+Bournemouth 5, Fulham 1
+Crystal Palace 7, Tottenham Hotspur 4
+Fulham 2, Chelsea 6
+Chelsea 2, Sunderland 5
+Fulham 5, Sunderland 7
+Brentford 7, Chelsea 5
+Manchester City 5, Brighton and Hove Albion 2
+Brentford 6, Nottingham Forest 7
+Manchester United 3, Arsenal 6
+Leeds United 4, Tottenham Hotspur 2
+Brentford 4, Nottingham Forest 3
+Liverpool 7, Newcastle United 2
+Wolverhampton Wanderers 2, Tottenham Hotspur 6
+Nottingham Forest 0, Sunderland 1
+Liverpool 1, Arsenal 4
+Crystal Palace 4, Wolverhampton Wanderers 3
+Arsenal 2, Aston Villa 6
+Leeds United 1, Fulham 0
+Liverpool 5, Aston Villa 1
+Aston Villa 3, Chelsea 3
+Crystal Palace 2, Sunderland 6
+Wolverhampton Wanderers 7, Manchester United 7
+Leeds United 5, Liverpool 6
+Bournemouth 4, Fulham 1
+Brighton and Hove Albion 7, Newcastle United 5
+Manchester United 5, Fulham 4
+Tottenham Hotspur 7, Bournemouth 1
+Bournemouth 1, Liverpool 5
+Tottenham Hotspur 6, Aston Villa 3
+Tottenham Hotspur 7, Brighton and Hove Albion 2
+Brentford 6, Manchester City 5
+Manchester United 6, Newcastle United 1
+Brentford 6, Burnley 6
+Manchester City 3, Sunderland 7
+Aston Villa 4, Arsenal 0
+Liverpool 4, Manchester United 2
+Burnley 3, Newcastle United 1
+Leeds United 6, Bournemouth 6
+Bournemouth 4, Fulham 7
+Leeds United 6, Manchester City 2
+Arsenal 5, Newcastle United 4
+Chelsea 0, Aston Villa 5
+Sunderland 4, Brentford 0
+Liverpool 2, Manchester United 5
+Bournemouth 3, Leeds United 0
+Manchester United 3, Leeds United 5
+Fulham 3, Burnley 2
+Brighton and Hove Albion 0, Everton 1
+Manchester City 1, Fulham 1
+Leeds United 3, Aston Villa 5
+Sunderland 2, Fulham 5
+Everton 7, Sunderland 3
+Burnley 0, Newcastle United 4
+Wolverhampton Wanderers 1, Aston Villa 0
+Chelsea 0, Sunderland 2
+Tottenham Hotspur 5, Bournemouth 0
+Bournemouth 1, Fulham 1
+Fulham 0, Arsenal 1
+Arsenal 3, Everton 3
+Manchester City 1, Burnley 3
+Tottenham Hotspur 3, Wolverhampton Wanderers 5
+Aston Villa 1, Sunderland 1
+Tottenham Hotspur 1, West Ham United 3
+Newcastle United 0, Bournemouth 3
+Tottenham Hotspur 7, Wolverhampton Wanderers 2
+Sunderland 2, Nottingham Forest 5
+Burnley 6, Newcastle United 5
+Manchester City 2, Nottingham Forest 4
+Fulham 1, Chelsea 6
+Aston Villa 6, Liverpool 1
+West Ham United 4, Arsenal 2
+Aston Villa 3, Crystal Palace 6
+Manchester United 6, Brighton and Hove Albion 3
+Manchester City 5, Aston Villa 4
+Aston Villa 6, Wolverhampton Wanderers 6
+Manchester City 3, Arsenal 3
+Manchester United 0, Wolverhampton Wanderers 2
+Burnley 2, Wolverhampton Wanderers 6
+Wolverhampton Wanderers 5, Liverpool 7
+Crystal Palace 5, Arsenal 0
+Leeds United 4, Nottingham Forest 1
+Brighton and Hove Albion 4, Nottingham Forest 0
+Sunderland 3, Brentford 2
+West Ham United 7, Aston Villa 7
+Burnley 7, Nottingham Forest 2
+Chelsea 7, Sunderland 0
+Wolverhampton Wanderers 4, Manchester City 7
+Manchester United 2, Newcastle United 4
+Crystal Palace 5, Liverpool 1
