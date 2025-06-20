@@ -1,5 +1,4 @@
-import pytest
-from ranker.span_digital import LeagueTable
+from ranker.league_table import LeagueTable
 from ranker.match import Team, MatchResult
 
 
