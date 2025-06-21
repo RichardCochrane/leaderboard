@@ -23,48 +23,41 @@ When all games have been evaluated, the results will be ordered from the team wi
 
 ## Installation
 
-The UV environment manager has been used here but regular PIP could be used as well. To install UV:
+This particular implementation requires the use of Java v15 or later.
 
 ```
 # For Linux or WSL
-curl -LsSf https://astral.sh/uv/install.sh | sh   (if curl is available)
-wget -qO- https://astral.sh/uv/install.sh | sh
+sudo apt install openjdk-17-jdk
+
 
 # For Mac OSX
-brew install UV
+brew install maven
 ```
 
-Once uv is intalled (although regular pip could be used as well), install the project dependencies:
+The app must then be compiled with: `mvn compile`
+
+If there are errors, they are likely because of a mismatched version of Java. To confirm this, run: `mvn -v` and confirm that the version of java is greater than 15. It's possible that even with a later version JDK, an older version is being used by Maven. To fix this, get the path to your JDK as follows:
+`readlink -f $(which java) | sed 's:/bin/java::'`
+
+The above value must be entered to the JAVA_HOME variable and the PATH variable updated in your .bashrc, .zshrc or equivalent file:
 ```
-uv pip install requirements.txt
-uv pip install dev_requirements.txt
+export JAVA_HOME=/path/from/above/command
+export PATH=$JAVA_HOME/bin:$PATH
 ```
 
 ## Running the script
 
-### Vanilla Mode
+The script can be run using the various test files as follows:
+```
+mvn exec:java -Dexec.mainClass="com.leaderboard.Main" -Dexec.args="sample_input.txt"
+mvn exec:java -Dexec.mainClass="com.leaderboard.Main" -Dexec.args="sample_input_with_errors.txt"
+mvn exec:java -Dexec.mainClass="com.leaderboard.Main" -Dexec.args="sample_input_large.txt"
+```
 
-The script can be run in it's regular mode using a variety of commands:
-- `python ranker/span_digital.py -h` - will generate the help page
-- `python ranker/span_digital.py -s` - will allow you to enter the match scores in, following the format described above, i.e. "<team name> <team score>, <team name> <team score>"
-- `python ranker/span_digital.py <file_name>` - will allow you to have the script read the matches from a provided file. There are 3 files to play with:
-  - `python ranker/span_digital.py sample_input.txt` - a very small list of matches
-  - `python ranker/span_digital.py sample_input_with_errors.txt` - a small list of matches but frought with errors
-  - `python ranker/span_digital.py sample_input_large.txt` - a larger list of 1000 matches played between English Premiere League teams (with made-up data)
-
-### Live Mode
-
-The scripts fancy mode is when the live mode is invoked. This will render the leaderboard live and update it as the matches are played, reflecting how teams are going up or down the leaderboard based on their matches. This is best seen with the large file, eg. `python ranker/span_digital.py sample_input_large.txt -l`
-
+The script can be run in interactive mode as follows:
+`mvn exec:java -Dexec.mainClass="com.leaderboard.Main"`
 
 ### Automated Tests
 
-Run `pytest .` to run the test suite.
-
-
-## Other Scripts
-
-### Sample File Generation
-
-By tweaking the script in `ranker/generate_sample_file.py`, very long random files can be created to test the script. To run it:
-`python ranker/generate_sample_file.py`.
+Run the automated tests with:
+`mvn test`
