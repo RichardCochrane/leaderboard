@@ -40,8 +40,15 @@ export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 
 ## Running the script
 
-The script is run with the following:
-`go run main.go league.go sample_input.txt`
+The script is run with the following files as follows:
+```
+go run main.go league.go sample_input.txt
+go run main.go league.go sample_input_with_errors.txt
+go run main.go league.go sample_input_large.txt
+```
+
+The interactive version of the script can be run as follows:
+`go run main.go league.go`
 
 The tests can be run with the following:
 `go test`

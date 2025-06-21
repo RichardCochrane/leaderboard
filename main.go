@@ -68,8 +68,10 @@ func main() {
 
 		if score1 > score2 {
 			scores[team1] += 3
+			scores[team2] += 0
 		} else if score2 > score1 {
 			scores[team2] += 3
+			scores[team1] += 0
 		} else {
 			scores[team1]++
 			scores[team2]++

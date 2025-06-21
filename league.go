@@ -64,6 +64,7 @@ func rankTeams(scores map[string]int) []string {
 
 	for i, team := range teams {
 		if team.Score != lastScore {
+			skip = 0
 			rank = i + 1 - skip
 		} else {
 			skip++
