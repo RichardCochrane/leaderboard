@@ -23,37 +23,25 @@ When all games have been evaluated, the results will be ordered from the team wi
 
 ## Installation
 
-The UV environment manager has been used here but regular PIP could be used as well. To install UV:
-
+Install golang:
 ```
-# For Linux or WSL
-curl -LsSf https://astral.sh/uv/install.sh | sh   (if curl is available)
-wget -qO- https://astral.sh/uv/install.sh | sh
+wget https://go.dev/dl/go1.24.4.linux-amd64.tar.gz
+tar -xvf go1.24.4.linux-amd64.tar.gz
+mv go go-1.24.4
+sudo mv go-1.24.4 /usr/local
+```
 
-# For Mac OSX
-brew install UV
+These environment variables also need to be added to your `~/.bashrc` or equivalent file:
+```
+export GOROOT=/usr/local/go-1.24.4
+export GOPATH=$HOME/go
+export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
 ```
 
 ## Running the script
 
-### Vanilla Mode
+The script is run with the following:
+`go run main.go league.go sample_input.txt`
 
-The script can be run in it's regular mode using a variety of commands:
-- `python ranker/span_digital.py -h` - will generate the help page
-- `python ranker/span_digital.py -s` - will allow you to enter the match scores in, following the format described above, i.e. "<team name> <team score>, <team name> <team score>"
-- `python ranker/span_digital.py <file_name>` - will allow you to have the script read the matches from a provided file. There are 3 files to play with:
-  - `python ranker/span_digital.py sample_input.txt` - a very small list of matches
-  - `python ranker/span_digital.py sample_input_with_errors.txt` - a small list of matches but frought with errors
-  - `python ranker/span_digital.py sample_input_large.txt` - a larger list of 1000 matches played between English Premiere League teams (with made-up data)
-
-### Live Mode
-
-The scripts fancy mode is when the live mode is invoked. This will render the leaderboard live and update it as the matches are played, reflecting how teams are going up or down the leaderboard based on their matches. This is best seen with the large file, eg. `python ranker/span_digital.py sample_input_large.txt -l`
-
-
-## Other Scripts
-
-### Sample File Generation
-
-By tweaking the script in `ranker/generate_sample_file.py`, very long random files can be created to test the script. To run it:
-`python ranker/generate_sample_file.py`.
+The tests can be run with the following:
+`go test`
