@@ -23,48 +23,31 @@ When all games have been evaluated, the results will be ordered from the team wi
 
 ## Installation
 
-The UV environment manager has been used here but regular PIP could be used as well. To install UV:
+Install Coursier which contains everything needed to install and use Scala:
 
 ```
 # For Linux or WSL
-curl -LsSf https://astral.sh/uv/install.sh | sh   (if curl is available)
-wget -qO- https://astral.sh/uv/install.sh | sh
+curl -fL https://github.com/coursier/coursier/releases/latest/download/cs-x86_64-pc-linux.gz | gzip -d > cs && chmod +x cs && ./cs setup
 
 # For Mac OSX
-brew install UV
+brew install coursier/formulas/coursier && cs setup
+
 ```
+It's not an unattended setup, so there will be some prompts to answer as part of installation.
 
-Once uv is intalled (although regular pip could be used as well), install the project dependencies:
+
+## Running the scripts
+
 ```
-uv pip install requirements.txt
-uv pip install dev_requirements.txt
+# Running the ranker with the various files:
+
+sbt "run sample_input.txt"
+sbt "run sample_input_with_errors.txt"
+sbt "run sample_input_large.txt"
+
+# Running the ranker with manual input
+sbt run
+
+# For running the tests
+sbt test
 ```
-
-## Running the script
-
-### Vanilla Mode
-
-The script can be run in it's regular mode using a variety of commands:
-- `python ranker/span_digital.py -h` - will generate the help page
-- `python ranker/span_digital.py -s` - will allow you to enter the match scores in, following the format described above, i.e. "<team name> <team score>, <team name> <team score>"
-- `python ranker/span_digital.py <file_name>` - will allow you to have the script read the matches from a provided file. There are 3 files to play with:
-  - `python ranker/span_digital.py sample_input.txt` - a very small list of matches
-  - `python ranker/span_digital.py sample_input_with_errors.txt` - a small list of matches but frought with errors
-  - `python ranker/span_digital.py sample_input_large.txt` - a larger list of 1000 matches played between English Premiere League teams (with made-up data)
-
-### Live Mode
-
-The scripts fancy mode is when the live mode is invoked. This will render the leaderboard live and update it as the matches are played, reflecting how teams are going up or down the leaderboard based on their matches. This is best seen with the large file, eg. `python ranker/span_digital.py sample_input_large.txt -l`
-
-
-### Automated Tests
-
-Run `pytest .` to run the test suite.
-
-
-## Other Scripts
-
-### Sample File Generation
-
-By tweaking the script in `ranker/generate_sample_file.py`, very long random files can be created to test the script. To run it:
-`python ranker/generate_sample_file.py`.
