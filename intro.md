@@ -16,19 +16,19 @@ After completion the script will return the list of teams in order of points, th
 ### AI and How We Can Use It
 
 The use of AI in interview challenges can be contreversial - after all, if all I'm going to do is use
-the AI, then why hire me instead of getting another AI license? I'd argue that there are two great reasons for use of AI in this project:
-- It's a tool that developers can and should use and using it effectively in this test demonstrates competence using it
-- It can allow us to go further than would ordinarily be possible - more on this in a moment.
+the AI, then why hire me instead of getting another AI license? I'd argue that there are two great reasons for using AI in this project:
+- It's a tool that developers can, and should, use - using it effectively in this test demonstrates competence with AI
+- It can allow us to go further than would ordinarily be possible - more on this in a moment
 
 To mitigate any fears that I have taken shortcuts:
 - I have included the original ChatGTP code in a branch called `chat-gtp`
-- My Python version goes way beyond this into better structuring and layout
-- My Python version includes a special feature that, while, unnecessary is pretty darn cool
-- I also used ChatGTP to help me get the program working in Scala, Java and GoLang, languages that I have no experience in
+- My Python version goes way beyond this into better code structure
+- My Python version includes a special feature that, while unnecessary, is pretty darn cool
+- I also used ChatGTP to help me get the program working in Scala, Java and GoLang - languages that I have no experience in at all
 
 ### What the Script Will Do
 
-The script is offered in two forms, interactive and using an input file (the means to using both are described in the README files). I included 3 different files:
+The script is offered in two forms, *interactive* and using an *input file* (the means to using both are described in the README files). I included 3 different files:
 - `sample_input.txt` which has the sample input from the assignment
 - `sample_input_with_errors.txt` which includes lines that are broken (wrong data type, too many columns, too few columns, etc)
 - `sample_input_large.txt` which has the sample input from a generation script that includes 1000 matches
@@ -59,4 +59,4 @@ required some time, patience, sweat and tears and I've documented the necessary 
 differently to the way I have (for these 3 languages).
 
 My tests for Scala, Java and GoLang are just the tests that ChatGTP provided, but corrected so that they pass - somehow the AI couldn't produce
-passing tests in any of the languages. The tests for Python are a bit more advanced and extensive, which comes from my experience with the language.
+passing tests in any of the languages. The tests for Python are a bit more advanced and extensive, which come from my experience with the language.
