@@ -34,6 +34,12 @@ wget -qO- https://astral.sh/uv/install.sh | sh
 brew install UV
 ```
 
+Once uv is intalled (although regular pip could be used as well), install the project dependencies:
+```
+uv pip install requirements.txt
+uv pip install dev_requirements.txt
+```
+
 ## Running the script
 
 ### Vanilla Mode
@@ -49,6 +55,11 @@ The script can be run in it's regular mode using a variety of commands:
 ### Live Mode
 
 The scripts fancy mode is when the live mode is invoked. This will render the leaderboard live and update it as the matches are played, reflecting how teams are going up or down the leaderboard based on their matches. This is best seen with the large file, eg. `python ranker/span_digital.py sample_input_large.txt -l`
+
+
+### Automated Tests
+
+Run `pytest .` to run the test suite.
 
 
 ## Other Scripts
