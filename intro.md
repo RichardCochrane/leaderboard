@@ -5,15 +5,15 @@ Hi there, I'm Richard 👋
 As part of demonstrating some backend developer skills, I've completed the challenge to create a leaderboard ranking script
 that takes input and returns the teams in their ranking order.
 
-### The Challenge
+## The Challenge
 
 To take input, either via a file or via the command line, that will include match results in the format:
 `<team name> <team score>, <team name> <team score>`
 
 After completion the script will return the list of teams in order of points, the points being given to each team: 3 points for a win, 1 point for a draw and 0 points for a loss.
 
-### The Solution
-#### AI and How We Can Use It
+## The Solution
+### AI and How We Can Use It
 
 The use of AI in interview challenges can be contreversial - after all, if all I'm going to do is use
 the AI, then why hire me instead of getting another AI license? I'd argue that there are two great reasons for use of AI in this project:
@@ -26,7 +26,7 @@ To mitigate any fears that I have taken shortcuts:
 - My Python version includes a special feature that, while, unnecessary is pretty darn cool
 - I also used ChatGTP to help me get the program working in Scala, Java and GoLang, languages that I have no experience in
 
-#### What the Script Will Do
+### What the Script Will Do
 
 The script is offered in two forms, interactive and using an input file (the means to using both are described in the README files). I included 3 different files:
 - `sample_input.txt` which has the sample input from the assignment
@@ -50,7 +50,7 @@ To make it super simple, the links to the 4 README's are:
 - [GoLang](https://github.com/RichardCochrane/leaderboard/tree/golang?tab=readme-ov-file)
 
 
-#### Limitations
+### Limitations
 
 My experience with Python allows me to structure the code more sensibly, aiding readability and maintainability of code. However, my lack of experience
 with Scala, Java and GoLang mean that my solution would be closer to being elementary. While ChatGTP provided a lot of the work there, it
