@@ -51,7 +51,7 @@ uv pip install -r dev_requirements.txt
 
 The script can be run in it's regular mode using a variety of commands:
 - `python span_digital.py -h` - will generate the help page
-- `python span_digital.py -s` - will allow you to enter the match scores in, following the format described above, i.e. "<team name> <team score>, <team name> <team score>"
+- `python span_digital.py -s` - will allow you to enter the match scores in via the **interactive** mode, following the format described above, i.e. "<team name> <team score>, <team name> <team score>"
 - `python span_digital.py <file_name>` - will allow you to have the script read the matches from a provided file. There are 3 files to play with:
   - `python span_digital.py sample_input.txt` - a very small list of matches
   - `python span_digital.py sample_input_with_errors.txt` - a small list of matches but frought with errors
