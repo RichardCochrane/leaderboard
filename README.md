@@ -48,14 +48,15 @@ export PATH=$JAVA_HOME/bin:$PATH
 
 ## Running the script
 
-The script can be run using the various test files as follows:
+The script can be run with the following files:
 ```
 mvn exec:java -Dexec.mainClass="com.leaderboard.Main" -Dexec.args="sample_input.txt"
 mvn exec:java -Dexec.mainClass="com.leaderboard.Main" -Dexec.args="sample_input_with_errors.txt"
 mvn exec:java -Dexec.mainClass="com.leaderboard.Main" -Dexec.args="sample_input_large.txt"
 ```
 
-The script can be run in interactive mode as follows:
+The interactive version of the script can be run as follows:
+
 `mvn exec:java -Dexec.mainClass="com.leaderboard.Main"`
 
 
