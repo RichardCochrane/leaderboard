@@ -1,4 +1,5 @@
-"""League Ranker
+"""
+League Ranker
 
 Usage:
   span_digital.py <file>
