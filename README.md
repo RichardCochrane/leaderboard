@@ -49,7 +49,7 @@ Nothing required
 
 ## Running the script
 
-The script is run with the following files as follows:
+The script can be run with the following files:
 ```
 go run main.go league.go sample_input.txt
 go run main.go league.go sample_input_with_errors.txt
